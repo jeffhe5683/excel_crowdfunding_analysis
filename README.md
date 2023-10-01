@@ -3,8 +3,8 @@ Crowdfunding platforms like Kickstarter and Indiegogo have been growing in succe
 
 To receive funding, the project must meet or exceed an initial goal, so many organisations dedicate considerable resources looking through old projects in an attempt to discover “the trick” to finding success. For this project, I will organise and analyse a database of 1,000 sample projects to uncover any hidden trends
 # instruction
-1.highlight  "outcome" column with a different colour, depending on whether the associated campaign was successful, failed, cancelled, or is currently live.
-2.Create a new column called "Percent Funded" that uses a formula to find how much money a campaign made relative to its initial funding goal.
+1.highlight  "outcome" column with a different colour, depending on whether the associated campaign was successful, failed, cancelled, or is currently live./n
+2.Create a new column called "Percent Funded" that uses a formula to find how much money a campaign made relative to its initial funding goal./n
   highlight "Percent Funded" column according to a three-colour scale. The scale should start at 0 with a dark shade of red, and it should transition to green at 100 and blue at 200.
 3.Create a new column called "Average Donation" that uses a formula to find how much each project backer paid on average.
   Create two new columns, one called "Parent Category" and another called "Sub-Category", that use formulas to split the Category and Sub-Category column into the two new, separate columns.
