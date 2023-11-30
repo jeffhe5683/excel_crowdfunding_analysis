@@ -32,8 +32,6 @@ To receive funding, the project must meet or exceed an initial goal, so many org
   
 
 
-<div style="text-align: left;">
-    <span style="color: blue;">Click the link below to launch the interactive web page:</span>
-</div>
+
 
 
