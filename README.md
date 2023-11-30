@@ -30,5 +30,5 @@ To receive funding, the project must meet or exceed an initial goal, so many org
   
   create a pivot-chart line graph that visualises this new table.
 
-  <a href="https://www.example.com"><span style="color: red">Click here to launch the interactive web page</span></a>
+  <a href="https://www.example.com"><span style="color: green">Click here to launch the interactive web page</span></a>
 
