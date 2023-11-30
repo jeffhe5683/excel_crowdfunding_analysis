@@ -32,9 +32,7 @@ To receive funding, the project must meet or exceed an initial goal, so many org
   
 
 $$
-
 {\color{blue}Click \space \color{blue}the \space \color{blue}link \space \color{blue}below \space \color{blue}to \space \color{blue}launch \space \color{blue}the \space \color{blue}interactive \space \color{blue}web \space \color{blue}page:}
-
 $$
 
 
