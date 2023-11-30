@@ -29,6 +29,8 @@ To receive funding, the project must meet or exceed an initial goal, so many org
   Create a new sheet with a pivot table that has a column of outcome, rows of Date Created Conversion, values based on the count of outcome, and filters based on parent category and Years.
   
   create a pivot-chart line graph that visualises this new table.
+  
+
 
   :--- $${\color{blue}Click \space \color{blue}the \space \color{blue}link \space \color{blue}below \space \color{blue}to \space \color{blue}launch \space \color{blue}the \space \color{blue}interactive \space \color{blue}web \space \color{blue}page:}$$  
 
